@@ -14,14 +14,15 @@ namespace ConsoleApp2
     {
         static void Main(string[] args)
         {
-            var code = loadFile(@"C:\Users\hp\Documents\Class1.cs");
+            var code = loadFile(@"C:\Users\hp\Documents\Class1.cs"); //Ruta del archivo
 
             Random random = new Random();
-            int cloneNumber = 1;
-            int cloneRepetitions = 3;
+
+            int cloneNumber = 1;        //Numero de clones
+            int cloneRepetitions = 3;   //Numero de veces que se clona cada uno
             int methodIndex;
             int linesToClone;
-            int l, h;
+            int l, h;                   //Rango de lineas por clonar
             l = 2;
             h = 4;
 
