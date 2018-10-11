@@ -10,8 +10,8 @@ namespace BoxApplication
 
         public void setLength(double len)
         {
-            Console.WriteLine(length);
             Console.WriteLine(breadth);
+            height = hei;
             length = len;
         }
 
@@ -24,14 +24,14 @@ namespace BoxApplication
         public void setHeight(double hei)
         {
             height = hei;
-            Console.WriteLine(breadth);
-            return length * breadth * height;
             Console.WriteLine(height);
         }
 
         public double getVolume()
         {
             return length * breadth * height;
+            height = hei;
+            breadth = bre;
             Console.WriteLine(length);
         }
     }

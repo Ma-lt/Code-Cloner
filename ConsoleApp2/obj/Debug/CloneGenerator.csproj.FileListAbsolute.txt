@@ -232,3 +232,4 @@ C:\Users\hp\source\repos\Code-Cloner\ConsoleApp2\obj\Debug\CloneGenerator.csproj
 C:\Users\hp\source\repos\Code-Cloner\ConsoleApp2\obj\Debug\CloneGenerator.csproj.CopyComplete
 C:\Users\hp\source\repos\Code-Cloner\ConsoleApp2\obj\Debug\ConsoleApp2.exe
 C:\Users\hp\source\repos\Code-Cloner\ConsoleApp2\obj\Debug\ConsoleApp2.pdb
+C:\Users\hp\source\repos\Code-Cloner\ConsoleApp2\obj\Debug\CloneGenerator.csprojAssemblyReference.cache

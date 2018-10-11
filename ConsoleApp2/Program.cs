@@ -15,7 +15,7 @@ namespace CloneGenerator
         static void Main(string[] args)
         {
             Generator g = new Generator();
-            g.Clone(@"C:\Users\hp\Desktop\Class1.cs", 2, 2, 1);
+            g.Clone(@"C:\Users\hp\Desktop\Class1.cs", 2, 2, 1); //path, # metodos clonados, # de clones, # de sentencias clonadas
         }
 
     }

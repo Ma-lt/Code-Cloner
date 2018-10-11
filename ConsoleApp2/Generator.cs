@@ -21,8 +21,6 @@ namespace CloneGenerator
         int offset;
         int carry;
 
-
-
         public void Clone(string path, int methodsToCloneNumber, int cloneNumber, int sentencesToCloneNumber)
         {
             string sourceCode = loadFile(path);
